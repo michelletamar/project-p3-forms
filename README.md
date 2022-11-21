@@ -1,13 +1,7 @@
 # Project Name
 
-Replace this readme with your own information about your project.
-
-Start by briefly describing the assignment in a sentence or two. Keep it short and to the point.
+This is the third project of Code Excursion, where we create a form to interact with the user. There is no backend to the form, so nothing "really" happens after hitting submit.
 
 ## The problem
 
-Describe how you approached to problem, and what tools and techniques you used to solve it. How did you plan? What technologies did you use? If you had more time, what would be next?
-
-## View it live
-
-Have you deployed your project somewhere? Be sure to include the link to the deployed project so that the viewer can click around and see what it's all about.
+I have issues with making the footer stick to the bottom on the "Contact" page. For the future, I also want to try and use JS to have the hamburger menu fully live in the mobile version. There are many more things I want to implement - this is just the beginning :) 
